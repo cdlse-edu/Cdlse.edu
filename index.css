@@ -1,5 +1,4 @@
 
-
 body{
  overflow-x:hidden;
 background: #FFFFFF;
@@ -241,8 +240,8 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.43);
     bottom: 30px;
     left: 50%;
     transform: translateX(-50%) translateY(20px);
-    background: #5F0707;
-    color: white;
+    background: #ffffff;
+    color: rgb(117, 17, 17);
     padding: 12px 24px;
     border-radius: 25px;
     opacity: 0;
